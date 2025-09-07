@@ -1,4 +1,4 @@
-# Pattern Codes
+# Pattern Codes and Dye Numbers
 | **CODE** | **RESOURCEJE**           | **INGAMEJE**               |
 | -------- | ------------------------ | -------------------------- |
 | SBL      | SQUARE\_BOTTOM\_LEFT     | Base Dexter Canton         |
@@ -43,3 +43,21 @@
 | PIG      | PIGLIN                   | Snout                      |
 | FLO      | FLOW                     | Flow                       |
 | GUS      | GUSTER                   | Guster                     |
+
+| **DYE**     | **NUM** |
+| ----------- | -------- |
+| WHITE       | 0        |
+| LIGHT\_GRAY | 1        |
+| GRAY        | 2        |
+| BLACK       | 3        |
+| BROWN       | 4        |
+| RED         | 5        |
+| ORANGE      | 6        |
+| YELLOW      | 7        |
+| LIME        | 8        |
+| GREEN       | 9        |
+| CYAN        | 10       |
+| BLUE        | 11       |
+| PURPLE      | 12       |
+| MAGENTA     | 13       |
+| PINK        | 14       |
