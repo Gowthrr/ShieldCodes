@@ -1,3 +1,4 @@
+[Images](https://minecraft.wiki/w/Banner/Patterns)
 # Pattern Codes and Dye Numbers
 | **CODE** | **RESOURCEJE**           | **INGAMEJE**               |
 | -------- | ------------------------ | -------------------------- |
