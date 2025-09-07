@@ -26,6 +26,7 @@ public enum ShieldPatternsEnum {
     DIAGONAL_LEFT("DIL", PatternType.DIAGONAL_LEFT),
     DIAGONAL_UP_LEFT("DUL", PatternType.DIAGONAL_UP_LEFT),
     DIAGONAL_RIGHT("DIR", PatternType.DIAGONAL_RIGHT),
+    DIAGONAL_UP_RIGHT("DUR", PatternType.DIAGONAL_UP_RIGHT),
     CIRCLE("CIR", PatternType.CIRCLE),
     RHOMBUS("RHO", PatternType.RHOMBUS),
     HALF_VERTICAL("HAV", PatternType.HALF_VERTICAL),
