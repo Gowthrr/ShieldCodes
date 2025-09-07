@@ -1,0 +1,9 @@
+name: ShieldCodes
+version: '1.0'
+main: me.gboom.uniShieldPatterns.ShieldCodesMain
+api-version: '1.21'
+commands:
+  shieldcode:
+    description: Customizes shields through the pattern string.
+  copyshield:
+    description: Gets the pattern string of the held item.
