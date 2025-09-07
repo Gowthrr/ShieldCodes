@@ -18,7 +18,8 @@ public enum DyesEnum {
     BLUE((byte) 11),
     PURPLE((byte) 12),
     MAGENTA((byte) 13),
-    PINK((byte) 14);
+    PINK((byte) 14),
+    LIGHT_BLUE((byte) 15);
 
     final Byte num; //  Memory status: Happy!
 
@@ -42,6 +43,7 @@ public enum DyesEnum {
             case PURPLE -> DyeColor.PURPLE;
             case MAGENTA -> DyeColor.MAGENTA;
             case PINK -> DyeColor.PINK;
+            case LIGHT_BLUE -> DyeColor.LIGHT_BLUE;
         };
     }
     public static DyeColor fromByte(byte byteValue) {
