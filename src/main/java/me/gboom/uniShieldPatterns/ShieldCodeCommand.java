@@ -18,7 +18,7 @@ import java.util.List;
 public class ShieldCodeCommand implements CommandExecutor {
 
     private static final int MAX_PATTERNS = 16; //  Change to allow more or less creativity, but it probably won't go above 16 without erroring.
-    private static final int MAX_STRING_LENGTH = 97; // Probably don't touch this!
+    private static final int MAX_STRING_LENGTH = 98; // Probably don't touch this!
 
     @Override
     public boolean onCommand(@NotNull CommandSender sender, @NotNull Command command, @NotNull String label, @NotNull String[] args) {
@@ -72,4 +72,5 @@ public class ShieldCodeCommand implements CommandExecutor {
         return shield;
     }
 }
+
 
